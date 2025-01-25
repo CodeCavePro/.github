@@ -1,12 +1,22 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
+CODECAVE unites proactive, like-minded IT talents. We offer consulting, outstaffing & outsourcing services and develop original projects like ERPs, add-ins for BIM/CAD, 3D, AR/VR and other real-time multimedia apps. Our team are experts in the following technologies:
 
-**Here are some ideas to get you started:**
+- Add-ins: WPF; Revit API
+- Mobile and Web Applications: C#; .NET; Blazor; JS; React
+- Vue; NodeJS; NestJS; Gatsby; Svelte
+- Consulting: WPF; Revit API
+- Cloud & DevOps: Azure; Proxmox; VM
+- Product lifestyle management (PLM): Support; Full cycle of development; Design; Atlassian Jira
+- Quality assurance (QA): Testing; Jest; Mocha; MSTest; NUnit; xUnit
+- VR/ AR: Babylon; ThreeJS; GLTF
+- UX/UI Research
+  - Business analysis
+  - User flows
+  - Competitors research
+  - User interviews
+  - Story mapping
+  - Prototyping
+  - HI-FI mockups
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We deliver bespoke solutions that contribute to the success of our clients and make business upscaling a smooth ride.
